@@ -11,7 +11,7 @@ body {
 }
 
 .white-box { 
- width: 500px; height: 100px; margin-top: 0px;   
+ width: 500px; height: 100px; margin-top: 0px; margin-left: auto; margin-right: auto;   
  background: rgba(255,255,255,0.3);
  padding: 30px;
 }
